@@ -1,4 +1,4 @@
-#!/bin/usr/env python3
+#!/usr/bin/env python3
 """An asynchronous routine that takes 2 int arguments
 Spawns the wait_random n times with the specified max
 delay and returns the list of all delays."""

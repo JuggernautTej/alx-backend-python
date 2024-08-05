@@ -1,4 +1,4 @@
-#!/bin/usr/env python3
+#!/usr/bin/env python3
 """An asynchronous coroutine that takes an
 integer argument that waits for a random delay between
 0 and the integer in seconds and eventually returns it"""
